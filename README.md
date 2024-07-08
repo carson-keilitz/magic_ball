@@ -1,16 +1,9 @@
-# magic_ball
+# Magic 8 Ball
 
-Magic 8 ball app.
+<img width="312" alt="Screenshot 2024-07-07 at 10 54 25 PM" src="https://github.com/carson-keilitz/magic_ball/assets/113474140/7fbe922b-c478-42cc-bdd2-7994a36c5e77">
 
-## Getting Started
+## What I Learned
+- How to use Stateful widgets to make a Flutter app reactive
+- Use of basic Flutter functions and variables for logic
+- Using other libraries like `dart:math`
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
